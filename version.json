@@ -1,0 +1,10 @@
+{
+ "version": "2.0",
+ "notes": [
+  "실행기 + 코드 분리 (자동 업데이트)",
+  "이적시장 자동 닫기, 연패 경고, 하루 결산, !설정, 패턴 분석 포함"
+ ],
+ "zip": "fcmacro_code.zip",
+ "sha256": "0a7b3b170b80a3f616a69b6ce8499f6ad78d3b03158a9a3bdb48b6f543a3983f",
+ "min_launcher": 1
+}
