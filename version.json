@@ -1,10 +1,10 @@
 {
- "version": "4.0.1",
+ "version": "4.0.2",
  "notes": [
-  "갱신꾼 [테스트]·[예약 시작] 때 화면 캡처 오류(int too long to convert) 수정",
-  "갱신꾼 화면 글씨·버튼 크게"
+  "맨 위 화면 전환을 큰 탭으로 [감독모드 | 이적시장 갱신꾼]",
+  "친구 랭킹 기간 그래프 불러오기가 오래 걸리던 문제 개선"
  ],
  "zip": "fcmacro_code.zip",
- "sha256": "c2adbd4e7402822f42f55e927fb6c9691ea85fee060b9f368ec6ae2a11e7779f",
+ "sha256": "2d3578d6c45b25ac0c67ba935b27c93e54e617c339c95993c58e491c744d439a",
  "min_launcher": 1
 }
